@@ -9,7 +9,7 @@ Info | Data
 | Birthday:| 10/06
 | Favorite color:| Green 
 | Favorite food:| Pizza
-| Pinneaple on Pizza: |[X]yes
+| Pinneaple on Pizza: |- [X] yes
  
 ### Hobbies
 * Movies and series watching
@@ -27,7 +27,7 @@ you need any help...
 ##### This is a funny story
 Once, when i was feeling hungry, so i decided to try cooking by myself, but in fact, i'm really bad at it and almost set my parent's house on fire... this was the last time my mother let me approach the kitchen. And after i was still feeling hungry.
 
-####### TL;DR
+###### TL;DR
 I tried to cook and almost set the kitchen on fire
 
 [<<previous](#) ||Austin|| [Next>>](#)
