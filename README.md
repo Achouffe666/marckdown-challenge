@@ -9,7 +9,7 @@ Info | Data
 | Birthday:| 10/06
 | Favorite color:| Green 
 | Favorite food:| Pizza
-| Pinneaple on Pizza: |- [X] yes
+| Pinneaple on Pizza: |[x] yes
  
 ### Hobbies
 * Movies and series watching
@@ -30,5 +30,5 @@ Once, when i was feeling hungry, so i decided to try cooking by myself, but in f
 ###### TL;DR
 I tried to cook and almost set the kitchen on fire
 
-[<<previous](#) ||Austin|| [Next>>](#)
+[<<previous](https://github.com/Aubanyx/markdown-challenge/blob/main/README.md) ||Austin|| [Next>>](https://github.com/bastlaf/markdown-challenge/blob/main/README.md)
  
